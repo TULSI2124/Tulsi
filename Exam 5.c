@@ -38,3 +38,29 @@ int main() {
 
     return 0;
 }
+/*
+output:
+Enter the number of laptops: 2
+
+Enter details for laptop 1:
+Enter company name: xyc
+Enter processor: vftfygby
+Enter price: 5400
+
+Enter details for laptop 2:
+Enter company name: vvyg
+Enter processor: vtyrf6ghb
+Enter price: 65000
+
+Laptop Details:
+
+Laptop 1:
+Company Name: xyc
+Processor: vftfygby
+Price: 5400.00
+
+Laptop 2:
+Company Name: vvyg
+Processor: vtyrf6ghb
+Price: 65000.00
+*/
